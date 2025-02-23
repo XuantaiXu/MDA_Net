@@ -1,8 +1,4 @@
-"""
-    修改模型
-    focalloss损失函数训练
-    多分类做分割模型
-"""
+
 
 # from unet3D import UnetGenerator_3d, loss_function
 # from model import unet3D
